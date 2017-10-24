@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="vaadin-slide-carousel" />
+        <module name="vaadin-slide-carousel-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="vaadin-slide-carousel" target="1.8" />
+      <module name="vaadin-slide-carousel-demo" target="1.8" />
+      <module name="vaadinslidecarousel" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
