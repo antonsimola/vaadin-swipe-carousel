@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="gwt" url="file://$PROJECT_DIR$/vaadin-slide-carousel-demo" />
-    <file type="web" url="file://$PROJECT_DIR$/vaadin-slide-carousel-demo" />
+    <file type="gwt" url="file://$PROJECT_DIR$/swipe-carousel-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/swipe-carousel-demo" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/vaadin-slide-carousel-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/vaadin-slide-carousel-addon/pom.xml" />
       </list>
     </option>
   </component>

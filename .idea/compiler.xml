@@ -6,13 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="swipe-carousel-addon" />
+        <module name="swipe-carousel-demo" />
         <module name="vaadin-slide-carousel" />
         <module name="vaadin-slide-carousel-demo" />
+        <module name="vaadin-swipe-carousel-addon" />
+        <module name="vaadin-swipe-carousel-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="swipe-carousel-addon" target="1.8" />
+      <module name="swipe-carousel-demo" target="1.8" />
       <module name="vaadin-slide-carousel" target="1.8" />
       <module name="vaadin-slide-carousel-demo" target="1.8" />
+      <module name="vaadin-swipe-carousel" target="1.5" />
+      <module name="vaadin-swipe-carousel-addon" target="1.8" />
+      <module name="vaadin-swipe-carousel-demo" target="1.8" />
       <module name="vaadinslidecarousel" target="1.5" />
     </bytecodeTargetLevel>
   </component>

@@ -1,0 +1,40 @@
+@mixin vaadin-swipe-carousel {
+  .swipe {
+    overflow: hidden;
+    visibility: hidden;
+    position: relative;
+  }
+  .swipe-wrap {
+    overflow: hidden;
+    position: relative;
+    width: inherit;
+  }
+  .swipe-wrap > div {
+    float: left;
+    width: 100%;
+    position: relative;
+  }
+
+  .swipe-carousel-button {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    border: 0 none;
+    border-top-color: transparent;
+    border-radius: 0;
+    border-bottom-color: transparent;
+    background: 0 none;
+  }
+
+  .swipe-carousel-left-button {
+    left: 0;
+  }
+
+  .swipe-carousel-right-button {
+    right: 0;
+  }
+
+  .swipe-carousel {
+    position: relative;
+  }
+}

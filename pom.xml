@@ -2,19 +2,19 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>me.anton</groupId>
-	<artifactId>vaadin-slide-carousel-root</artifactId>
+	<groupId>org.vaadin.addons</groupId>
+	<artifactId>swipe-carousel-root</artifactId>
 	<packaging>pom</packaging>
-	<version>1.0-SNAPSHOT</version>
-	<name>Vaadin Slide Carousel Root Project</name>
+	<version>0.0.1</version>
+	<name>Swipe Carousel Root Project</name>
 
 	<prerequisites>
 		<maven>3</maven>
 	</prerequisites>
 
 	<modules>
-		<module>vaadin-slide-carousel-addon</module>
-		<module>vaadin-slide-carousel-demo</module>
+		<module>swipe-carousel-addon</module>
+		<module>swipe-carousel-demo</module>
 	</modules>
 
 	<profiles>

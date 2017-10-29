@@ -138,3 +138,4 @@ local.properties
 .worksheet
 
 /.idea/artifacts/**
+/vaadin-slide-carousel-demo/src/main/webapp/VAADIN/themes/demo/*.css

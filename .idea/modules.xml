@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/vaadin-slide-carousel-addon/vaadin-slide-carousel.iml" filepath="$PROJECT_DIR$/vaadin-slide-carousel-addon/vaadin-slide-carousel.iml" />
-      <module fileurl="file://$PROJECT_DIR$/vaadin-slide-carousel-demo/vaadin-slide-carousel-demo.iml" filepath="$PROJECT_DIR$/vaadin-slide-carousel-demo/vaadin-slide-carousel-demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/vaadinslidecarousel.iml" filepath="$PROJECT_DIR$/vaadinslidecarousel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipe-carousel-addon/swipe-carousel-addon.iml" filepath="$PROJECT_DIR$/swipe-carousel-addon/swipe-carousel-addon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipe-carousel-demo/swipe-carousel-demo.iml" filepath="$PROJECT_DIR$/swipe-carousel-demo/swipe-carousel-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vaadin-swipe-carousel.iml" filepath="$PROJECT_DIR$/vaadin-swipe-carousel.iml" />
     </modules>
   </component>
 </project>
